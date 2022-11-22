@@ -1,4 +1,7 @@
-package two_fighters.Fighter;
+package basics_oop.ch1;
+
+import basics_oop.ch1.BoxingMatch;
+import basics_oop.ch1.Fighter;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package two_fighters.Fighter;
+package basics_oop.ch1;
 
 public class Fighter {
     private String name;
