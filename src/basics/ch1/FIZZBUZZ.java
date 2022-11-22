@@ -1,4 +1,4 @@
-package basics.FIZZBUZZ;
+package basics.ch1;
 
 public class FIZZBUZZ {
     public static void main(String[] args) {
