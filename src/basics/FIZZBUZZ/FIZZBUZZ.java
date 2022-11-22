@@ -1,4 +1,4 @@
-package FIZZBUZZ;
+package basics.FIZZBUZZ;
 
 public class FIZZBUZZ {
     public static void main(String[] args) {
