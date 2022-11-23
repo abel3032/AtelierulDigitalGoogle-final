@@ -48,4 +48,16 @@ public class Main {
         }
         return rev_num;
     }
+
+    static int contine_zero(int n)
+    {
+        int k=0;
+        while(n!=0)
+        {
+            if(n%10==0)
+                k=1;
+            n=n/10;
+        }
+        return k;
+    }
 }
