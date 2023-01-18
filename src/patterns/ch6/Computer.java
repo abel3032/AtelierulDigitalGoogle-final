@@ -1,4 +1,4 @@
-package patterns.builder;
+package patterns.ch6;
 
 public class Computer {
     private String RAM;
